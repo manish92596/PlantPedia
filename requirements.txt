@@ -1,0 +1,13 @@
+streamlit
+torch
+torchvision
+Pillow
+pickle-mixin
+langchain-google-genai
+faiss-cpu
+langchain[openai,all]
+langchain-community
+sentence-transformers
+PyPDF2
+python-dotenv
+GPUtil
